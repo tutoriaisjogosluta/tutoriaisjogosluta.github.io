@@ -5,6 +5,7 @@ body
 
 .banner-container
 {
+    background-image: url(../images/street-fighter-v-ryu.jpg);
     background-attachment: fixed;
     width: 100%;
     height: 590px;
